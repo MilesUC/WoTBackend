@@ -1,0 +1,4 @@
+node_modules/
+.env
+.vsls.json
+.DS_Store
